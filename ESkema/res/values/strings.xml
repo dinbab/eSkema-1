@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ESkema</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Log ind</string>
+    <string name="password">Pinkode</string>
+    <string name="username">Brugernavn</string>
+	<string name="login_dialog">Logger på...</string>
+	<string name="logo_description">eSkema logo</string>
+	<string name="search">Søg</string>
+</resources>
